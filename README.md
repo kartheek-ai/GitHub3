@@ -1,2 +1,1 @@
-"# GitHub3" 
-## New Header Section 
+# Main Branch Header 
